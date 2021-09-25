@@ -26,7 +26,7 @@ public class Product implements Serializable {
     }
 
     public String getPprice() {
-        return pprice;
+        return price;
     }
 
     public float getPrice() {
